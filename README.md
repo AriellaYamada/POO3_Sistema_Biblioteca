@@ -17,7 +17,8 @@ O programa funciona a partir de logs no sistema, logo, nenhum cadastro efetuado 
 A descricao dos comandos do menu inicial, pode ser encontrada com o comando help.
 
 - 6:
-Para comandos utilizar '/' nos comandos do menu principal (exceto para 'help' e 'exit).
+Para comandos utilizar '/' nos comandos do menu principal (exceto para 'help' e 'exit').
 
 - 7:
+
 
